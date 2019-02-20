@@ -1,2 +1,2 @@
 There was once a student named Harini who went to University of Wisconsin Madison. She decided to take on the challenge of CS 400. She was very nervous. She ended up spending a lot of time on her cs400 work and did well on her assignments.
-
+When she got home, she started working on a programming assignment. Satisfied with her program, she pressed run to test it out. Suddenly, the lights went dark and a deep Russian voice started speaking. "Hello, Harini. It seems you have hacked the US government. We could use your help."
