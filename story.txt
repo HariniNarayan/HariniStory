@@ -1,3 +1,6 @@
-There was once a student named Harini who went to University of Wisconsin Madison. She decided to take on the challenge of CS 400. She was very nervous. She ended up spending a lot of time on her cs400 work and did well on her assignments.
+There was once a student named Harini who went to University of Wisconsin Madison. She decided to take on the challenge of CS 400. She was very nervous. 
+She ended up spending a lot of time on her cs400 work and did well on her assignments.
 When she got home, she started working on a programming assignment. Satisfied with her program, she pressed run to test it out. Suddenly, the lights went dark and a deep Russian voice started speaking. "Hello, Harini. It seems you have hacked the US government. We could use your help."
 Harini had no idea what to do, she can't believe she hacked the US government and committed treason, but she felt very proud. She posted about it on reddit without people knowing, then decided to help the Russia out.
+She was very thankful for CS 400 since it had taught her so much about coding. She never thought that an introductory college class could help her accomplish so much. From this experience, she learned to always work very hard in her classes and to never take any course lightly.
+
